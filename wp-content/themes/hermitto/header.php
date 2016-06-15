@@ -24,6 +24,4 @@
 <body <?php body_class(); ?>>
 <div id="page" class="hfeed site">
 	
-
-	<! -- <div id="content" class="site-content"> -->
 	<div class="container-fluid">
