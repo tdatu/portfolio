@@ -11,7 +11,13 @@ get_header(); ?>
 
 
 <div class="row">
-	<div class="col-lg-12 col-xs-12 col-md-12"> Header Here </div>
+	<div class="col-lg-12 col-xs-12 col-md-12"> 
+		<div class="col-lg-12 col-xs-12 col-md-12"> 
+			<div class="col-lg-12 col-xs-12 col-md-12"> 
+				Header
+			</div>
+		</div>
+	</div>
 	
 	<div class="col-lg-9 col-xs-9 col-md-9">
 		<div class="col-lg-8 col-md-8 col-xs-12">
