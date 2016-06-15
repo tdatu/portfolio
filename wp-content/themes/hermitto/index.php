@@ -9,10 +9,28 @@
 
 get_header(); ?>
 
-<div class="container-fluid">
-	<div class="row">
-		<div class="col-md-12"> col-md-12 </div>
-		<div class="col-md-9"> col-md-9 </div>
-		<div class="col-md-3"> col-md-3 </div>
+
+<div class="row">
+	<div class="col-lg-12 col-xs-12 col-md-12"> Header Here </div>
+	
+	<div class="col-lg-9 col-xs-9 col-md-9">
+		<div class="col-lg-6 col-md-6 col-xs-6">
+			<div class="panel panel-default">
+				<div class="panel-body">
+					Basic panel example
+				</div>
+			</div>
+		</div>
+	
+		<div class="col-lg-6 col-md-6 col-xs-6">
+			<div class="panel panel-default">
+				<div class="panel-body">
+					Basic panel example
+				</div>
+			</div>
+		</div>
+
+
 	</div>
+	<div class="col-lg-3 col-xs-3 col-md-3"> col-md-3 </div>
 </div>

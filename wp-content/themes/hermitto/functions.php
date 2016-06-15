@@ -28,6 +28,8 @@
 function hermitto_scripts()
 {
 	/** CUSTOMIZED STUFFS HERE */
+	wp_enqueue_script( 'jqueryjs', get_template_directory_uri() . '/bower_components/jquery/dist/jquery.min.js', array(), '20160615', true );
+	wp_enqueue_script( 'handlebars', get_template_directory_uri() . '/bower_components/handlebars/dist/handlebars.min.js', array(), '20160615', true );
 	wp_enqueue_script( 'bootstrapjs', get_template_directory_uri() . '/bower_components/bootstrap/dist/js/bootstrap.min.js', array(), '20160615', true );
 	wp_enqueue_style( 'bootstrapcss', get_template_directory_uri() . '/bower_components/bootstrap/dist/css/bootstrap.min.css', array(), '3.6' );
 
