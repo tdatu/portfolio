@@ -16,6 +16,7 @@ get_header(); ?>
 	<div class="col-lg-9 col-xs-9 col-md-9">
 		<div class="col-lg-8 col-md-8 col-xs-12">
 			<div class="panel panel-warning">
+				<div class="panel-heading">Panel heading without title</div>
 				<div class="panel-body">
 					Basic panel example
 				</div>
@@ -24,6 +25,7 @@ get_header(); ?>
 	
 		<div class="col-lg-4 col-md-4 col-xs-12">
 			<div class="panel panel-warning">
+				<div class="panel-heading">Panel heading without title</div>
 				<div class="panel-body">
 					Basic panel example
 				</div>
