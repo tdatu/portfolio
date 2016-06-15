@@ -236,7 +236,7 @@ add_action( 'wp_head', 'twentyfifteen_javascript_detection', 0 );
  *
  * @since Twenty Fifteen 1.0
  */
-function twentyfifteen_scripts() {
+function hermitto_scripts() {
 	// Add custom fonts, used in the main stylesheet.
 	wp_enqueue_style( 'twentyfifteen-fonts', twentyfifteen_fonts_url(), array(), null );
 
@@ -277,7 +277,7 @@ function twentyfifteen_scripts() {
 		'collapse' => '<span class="screen-reader-text">' . __( 'collapse child menu', 'twentyfifteen' ) . '</span>',
 	) );
 }
-add_action( 'wp_enqueue_scripts', 'twentyfifteen_scripts' );
+add_action( 'wp_enqueue_scripts', 'hermitto_scripts' );
 
 /**
  * Add featured image as background image to post navigation elements.
