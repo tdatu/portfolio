@@ -11,14 +11,32 @@ get_header(); ?>
 
 
 <div class="row">
-	<div class="col-lg-12 col-xs-12 col-md-12"> 
+	
+	<div class="row">
+
 		<div class="col-lg-12 col-xs-12 col-md-12"> 
 			<div class="col-lg-12 col-xs-12 col-md-12"> 
-				<img src="http://hermitto.herokuapp.com/wp-content/uploads/2016/06/photo1.jpg" class="img-circle pull right">
+				<div class="col-lg-12 col-xs-12 col-md-12"> 
+					<img src="http://hermitto.herokuapp.com/wp-content/uploads/2016/06/photo1.jpg" class="img-circle pull right">
+				</div>
 			</div>
 		</div>
+
 	</div>
 	
+	<div class="row">
+	
+		<div class="col-lg-12 col-xs-12 col-md-12"> 
+			<div class="col-lg-12 col-xs-12 col-md-12"> 
+				<div class="col-lg-12 col-xs-12 col-md-12"> 
+					<img src="http://hermitto.herokuapp.com/wp-content/uploads/2016/06/photo1.jpg" class="img-circle pull right">
+				</div>
+			</div>
+		</div>
+
+	</div>
+
+
 	<div class="col-lg-9 col-xs-9 col-md-9">
 		<div class="col-lg-8 col-md-8 col-xs-12">
 			<div class="panel panel-warning">
