@@ -32,7 +32,7 @@ get_header(); ?>
 
 			<div class="row">
 
-				<div class="col-lg-8 col-md-8 col-xs-12">
+				<div class="col-lg-12 col-md-12 col-xs-12">
 					<div class="panel panel-warning">
 						<div class="panel-heading">Panel heading without title</div>
 						<div class="panel-body">
@@ -46,7 +46,7 @@ get_header(); ?>
 
 			<div class="row">
 			
-				<div class="col-lg-8 col-md-8 col-xs-12">
+				<div class="col-lg-12 col-md-12 col-xs-12">
 					<div class="panel panel-warning">
 						<div class="panel-heading">Panel heading without title</div>
 						<div class="panel-body">
