@@ -14,7 +14,7 @@ get_header(); ?>
 	<div class="col-lg-12 col-xs-12 col-md-12"> 
 		<div class="col-lg-12 col-xs-12 col-md-12"> 
 			<div class="col-lg-12 col-xs-12 col-md-12"> 
-				Header
+				<img src="http://hermitto.herokuapp.com/wp-content/uploads/2016/06/photo1.jpg" class="img-circle pull right">
 			</div>
 		</div>
 	</div>
@@ -31,7 +31,7 @@ get_header(); ?>
 	
 		<div class="col-lg-4 col-md-4 col-xs-12">
 			<div class="panel panel-warning">
-				<div class="panel-heading">Panel heading without title</div>
+				<div class="panel-heading">Twitter feeds</div>
 				<div class="panel-body">
 					Basic panel example
 				</div>
