@@ -28,7 +28,7 @@ get_header(); ?>
 
 	<div class="col-lg-9 col-xs-9 col-md-9">
 
-		<div class="col-lg-12 col-xs-12 col-md-9">
+		<div class="col-lg-9 col-xs-12 col-md-9">
 
 			<div class="row">
 
