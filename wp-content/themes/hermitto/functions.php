@@ -33,7 +33,7 @@ function hermitto_scripts()
 	wp_enqueue_script( 'bootstrapjs', get_template_directory_uri() . '/bower_components/bootstrap/dist/js/bootstrap.min.js', array(), '20160615', true );
 	wp_enqueue_style( 'bootstrapcss', get_template_directory_uri() . '/bower_components/bootstrap/dist/css/bootstrap.min.css', array(), '3.6' );
 	wp_enqueue_style( 'hermittocss', get_template_directory_uri() . '/css/hermitto.css', array(), '1.0' );
-
+	wp_enqueue_style( 'genericons', get_template_directory_uri() . '/genericons/genericons.css', array(), '3.2' );
 }
 add_action( 'wp_enqueue_scripts', 'hermitto_scripts' );
 

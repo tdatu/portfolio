@@ -48,14 +48,13 @@ body
     top: 150px;
 }
 
-span.name
+div.name
 {
     font-family:'island';
     color: white;
     font-size: 3.3em;
     text-shadow: 2px 2px #000;
-    position: relative;
-    left: 25%; 
+    text-align: center;
 }
 
 div.desc
@@ -65,8 +64,7 @@ div.desc
     text-align: center;
     font-size: 1.5em;
     /** text-shadow: 2px 2px #000; **/
-    position: relative;
-    left: 10%; 
+   
 
 }
 
@@ -84,9 +82,6 @@ span.desc-island
 .island
 {
     height: 90%;
-    position: relative;
-    bottom: 0px;
-    right: 20px;
 }
 
 .row-2
@@ -111,7 +106,62 @@ span.desc-island
     padding: 10px 10px 10px 10px;
 }
 
+.wordpress-logo, .d3-logo
+{
+    width: 40px;
+    height: 40px;
+}
+
+.angular-logo
+{
+    height: 65px;
+}
+
+.handlebar-logo
+{
+    height: 45px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.bootstrap-logo
+{
+    height: 45px;
+}
+
+.kb-hpe
+{
+    width: 100%;
+    box-shadow: 0px 3px 4px 4px #ccc;
+    border-radius: 8px;
+    margin: 10px 10px 10px 10px;
+}
+
+.kb-description
+{
+    padding: 10px 10px 10px 5px;
+}
+
+.second-row, .third-row
+{
+    margin-top: 60px;
+}
+
 h2
 {
     margin: 10px 10px 20px 10px;
+    color: #899;
+}
+
+h2.together
+{
+    margin: 10px 10px 10px 10px;
+    color: #899;
+    display: inline;
+    text-align: bottom;
+}
+
+.thumbs-up:before
+{
+    font-size: 2.5em;
 }

@@ -32,7 +32,7 @@ get_header(); ?>
 		<div class="col-lg-4 col-md-4 col-xs-4">
 			<div class="row">
 				<div class="col-lg-12 col-md-12 col-xs-12">
-					<span class="name">I'm Anthony</span>
+					<div class="name">I'm Anthony</div>
 					<br><br>
 					<div class="desc">a technical support engineer and a web developer.</div>
 					<br><br><br><br>
@@ -57,19 +57,103 @@ get_header(); ?>
 		<div class="col-lg-6 col-md-6 col-xs-6">
 			<h1 class="passionate">These are what I'm passionate about...</h1>
 
-			<div class="passionate-desc">
-				<h2>Technical Support</h2>
-				Provide a timely technical support for various SaaS Applications in 
-				massive data centers located all over the world. Lend help for any 
-				on-premise configuration software.
+			<div class="row">
+				<div class="passionate-desc">
+					<h2>Technical Support</h2>
+					Provide a timely technical support from various SaaS Applications in 
+					massive data centers located all over the world. Lend help for any 
+					on-premise configuration software. Quickly identifies network gotchas and provide
+					workaround if possible.
+				</div>
 			</div>
 
-			<div class="passionate-desc">
-				<h2>Web Development</h2>
-				Provide a timely technical support for various SaaS Applications in 
-				massive data centers located all over the world. 
+			<div class="row">
+				<div class="passionate-desc">
+					<h2>Web Development</h2>
+					I've provided solutions for clients and several internal applications for HPE 
+					Service Operations Center Team. <br><br>
+					<div class="row">
+						<div class="col-lg-6 col-md-6 col-xs-6">
+
+							<img src="https://lh3.googleusercontent.com/eyfrHqtfwCm3jYQVYHVi-cno5UgsCXu5NnqQwXKqhnKNS5rd8Do7-SPvenJDZzwmNyCpfVpZA2NCsfOlDSDkGFSVcM-MbxBBZNZAOwtWIH7gpuKflhvq0UxWAsmqNtttR2wLfeGnWt2-6uWOkvYITGW1UdnvDI-jt1JfB63XFH20MTyqt-MrZaj2I_GKMmGe3iy9EUpwAaEMi7fbH598EdaXeZX815XZIG8ilOoquF4xY1Pzdl8SZVWizDO_URnooarc60J8s-h1hoYLfQIFZWC3Zq0CXLjCfIMPGJmE-8aqRTqvXI51v_UMuTh0c48lfj7aFEOupCOxSPedf7yob0l0lZLejE9IF4a2dD5lMwNDqPcqP9y6o1V_HjGuHOkSPYq2DZPUG3rGC-pa50AGQqHLvFEIQQO7C-emTIhYd27AhOKtDBLt6DlGi5Ii2qtu3sGo1D-L8l10flxbWRXTqCzLdlh4qMg20A35IzXHJu5qX7MO6Q7s4vUTGfyvQ1eLhF0hHjtgHp7HdBEhlQHvRvxvVcjUQkwpmqmbgFeIJDfkh-B-p7IAcSwFdd8df66Wg1BmQIe68cm9puUf_0jsIPtrJMcsTyw=w770-h763-no" class="img-rectangle pull-left kb-hpe">
+
+						</div>
+
+						<div class="col-lg-6 col-md-6 col-xs-6">
+							<div class="kb-description">
+								Leveraged on Wordpress easy to use CMS platform and AngularJS 2-way binding, the result is 
+								an awesome knowledge base with live search result.
+							</div>
+
+							<br>Technology developed in:<br><br>
+							<img src="http://academy.bindtuning.com/wp-content/uploads/2014/04/wplogoblue-notext-rgb.png" class="img-circle wordpress-logo">
+							<img src="http://watercherry.com/core/media/2012/04/angular.png" class="img-rectangle angular-logo">
+							<img src="http://getbootstrap.com/2.3.2/assets/ico/apple-touch-icon-144-precomposed.png" class="img-rectangle bootstrap-logo">
+						</div>
+					</div>
+
+					<div class="row second-row">
+						<div class="col-lg-6 col-md-6 col-xs-6">
+
+							<img src="https://lh3.googleusercontent.com/Atfn8i7eGZigQdNFmbapEFiUtZhG7lMhQfq8BlQbUGF3-g5b58L8rZZrcrVJ7W-jnr3258uhJUxp3PpP-3H-rv__03gRT11v6ddNjjFK6_ZkX8Z290z7yTgCA5G3x_MbKuRJwEml0UknHaO3gv7p_KxRoADaYv_7Jm3C7VcYodVNX0f4fOAqsfugKfBj9VWWj37bt8ZSPI8Vg2q0aoe1pzdgKPewuZLi_g42vO9PDyl5Aj6YnjM0Hw9FWPU4QPnJiFd8Uxpz38g3TuRyDk8Bu3vNy-YG59UHPTNMGaO4fYDf1WTbUXeyA2sNNZs-q5fIBvfmiM7LPiik6N2lCM_kuyvYSXnNHASq45MGka_5MRBW2KEv50Xx-5-CaCbBUhqYDLo81pihXsUjb6zmIDJpdhJrVl9Q4YpY-mfThegA6jC6-oP-1ONWNZ812Z9BZneEb4gomA8UfFQVH3a2Nwm3fgfTVKZzQk2QvQPNCFm961-eV29rYkxW1QomvQL32YtRlioEr3QCStdYdRgqTZST2hV_0yPST48lyJQQbDyxGeAhSPYjDsfi6ddnTrZ8SKvr0J9lAZmyaig-aj1bE9Iko3XG7HsGqCE=w1312-h748-no" class="img-rectangle pull-left kb-hpe">
+
+						</div>
+
+						<div class="col-lg-6 col-md-6 col-xs-6">
+							<div class="kb-description">
+								Pulp application is an easy to use password reset logger in order to track password resets across SaaS Applications. 
+								Trends are presented in line graphs that is based on well-known d3.js and handlebars as a templating engine. 
+								Detailed report can be outputed as a .CSV file. 
+							</div>
+
+							<br>Technology developed in:<br><br>
+							<img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Logo_D3.svg/100px-Logo_D3.svg.png" class="img-square d3-logo">
+							<img src="https://d13yacurqjgara.cloudfront.net/users/37084/screenshots/567919/ember-2.png" class="img-rectangle handlebar-logo">
+							<img src="http://getbootstrap.com/2.3.2/assets/ico/apple-touch-icon-144-precomposed.png" class="img-rectangle bootstrap-logo">
+						</div>
+					</div>
+
+
+					<div class="row third-row">
+						<div class="col-lg-6 col-md-6 col-xs-6">
+
+							<img src="https://lh3.googleusercontent.com/RrHn7TZBfGE-uZ7jXbVlq3ftswqJFNbTiRg4-ey_wnGgrFT8NEh4YNHYV73xmVzA75BK_pM5GLosFr0NGX2_eLZN7OrgSHXVXWP_33i5VsKfnKCF3BNhPpdsJxDsMIgOv8CSGvOp-se6aHn9eacgr-ArqKt0LRrP7LLd_DAXidMrQVB4QsOB3yZAK86EcymW2uUEQ6V5ErvT2hOno6XhjZD4tVinJ2U28AcYtnbszzPisto8YgIyPqStjjhnrGYGfLICp6sfViu97uheWAcy_KbeozLIw_dCfGtd-t3fKauyQumq3PFROKFD6By1ey9FNxCcRAGv14VN4xLEw3zGY9xRSEzB3nUnr4Rp-ZgL7Wnnah3pVdTNgvqSwYFk3hYBRD9zDot5FoYRub1Gtbf9wGjG_XxY3Mhb7XLBDT9LwOg2QvpTStr528gqfWJrXes3hNnxsp4NWup08GqdshaA1_siGUVYkXoRZ1wUEYuzj_GnqTMqubs44oRC_kFjYDPJTXjaUdfZGcJI6Xp1Z0ug_uCScBQv_D56vMhE-JKfRNMT7YPCgsshqAIDdUsNWdcZAWAZ8OzQuhvdTOPt7LsbxE0gU5ZOPbk=w1473-h771-no" class="img-rectangle pull-left kb-hpe">
+
+						</div>
+
+						<div class="col-lg-6 col-md-6 col-xs-6">
+							<div class="kb-description">
+								Developed the front-end dashboard for a media company. The dashboard includes fully customed teleprompter, 
+								animated graphic overlay for live streaming videos, and templated social-media feeds for current / relevant 
+								news.
+							</div>
+
+							<br>Technology developed in:<br><br>
+							<img src="http://www.ics.hawaii.edu/wp-content/uploads/2013/08/jquerylogo320.png" class="img-square d3-logo">
+							<img src="https://d13yacurqjgara.cloudfront.net/users/37084/screenshots/567919/ember-2.png" class="img-rectangle handlebar-logo">
+							<img src="http://getbootstrap.com/2.3.2/assets/ico/apple-touch-icon-144-precomposed.png" class="img-rectangle bootstrap-logo">
+						</div>
+					</div>
+
+
+				</div>
 			</div>
 
+			<div class="row">
+			<div class="passionate-desc">
+				<h2>Open Source Software</h2>
+				<div>
+				I'm an active member of CakePHP framework in which I intend to use in my backend development to
+				provide solutions for future clients. As a part of my opensource advocacy, I prefer to use free  
+				alternative application such as Inkscape for any svg graphical needs, and Gimp for any photo editing work. 
+				I also contribute on answering some stack overflow questions, and from time 
+				to time, I pushed codes to my <a href="https://github.com/tdatu">github account</a>, including the native 
+				<a href="https://github.com/tdatu/Analog-Clock">svg analog clock</a> 
+				in javascript. This analog clock was forked and now browserify <a href="https://github.com/web-mech/clocked">here</a>, 
+				and <a href="http://codepen.io/anon/pen/YwPOXO">codepen demo.</a>
+				</div> 
+			</div>
+			</div>
 
 		</div>
 		
@@ -79,7 +163,26 @@ get_header(); ?>
 
 <div class="row">
 	<div class="col-lg-12 col-md-12 col-xs-12 row-3">
-	row 3
+	<div class="col-lg-3 col-md-3 col-xs-3"></div>
+	<div class="col-lg-6 col-md-6 col-xs-12">
+		<div class="row">
+				<div class="passionate-desc">
+					<h2 class="together"><span class="genericon genericon-digg thumbs-up"></span>
+					Together, we can do better.</h2>
+					<div>
+					I'm an active member of CakePHP framework in which I intend to use in my backend development to
+					provide solutions for future clients. As a part of my opensource advocacy, I prefer to use free  
+					alternative application such as Inkscape for any svg graphical needs, and Gimp for any photo editing work. 
+					I also contribute on answering some stack overflow questions, and from time 
+					to time, I pushed codes to my <a href="https://github.com/tdatu">github account</a>, including the native 
+					<a href="https://github.com/tdatu/Analog-Clock">svg analog clock</a> 
+					in javascript. This analog clock was forked and now browserify <a href="https://github.com/web-mech/clocked">here</a>, 
+					and <a href="http://codepen.io/anon/pen/YwPOXO">codepen demo.</a>
+					</div> 
+				</div>
+				</div>
+		</div>
 	</div>
+	<div class="col-lg-3 col-md-3 col-xs-3"></div>
 </div>
 
